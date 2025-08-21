@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=900&lines=Turning+coffee+into+code+since+2021+%E2%98%95;Building+AI+that+actually+helps+people+%F0%9F%A4%96;From+Singapore+with+%E2%9D%A4%EF%B8%8F;Teaching+machines+to+see+%F0%9F%91%81;Making+tech+more+human%2C+one+project+at+a+time+%F0%9F%8C%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=900&lines=Turning+coffee+into+code+since+2021+%E2%98%95;Building+AI+that+actually+helps+people+%F0%9F%A4%96;Teaching+machines+to+see+%F0%9F%91%81;Making+tech+more+human%2C+one+project+at+a+time+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
 </div>
 
