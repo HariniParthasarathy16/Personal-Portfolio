@@ -30,8 +30,7 @@ I work in AI/ML and software to create intelligent systems that feel alive and h
 **Cloud & DB:** AWS, MongoDB, MySQL, Firebase  
 **Tools & DevOps:** Docker, RabbitMQ, Apache Spark, Git  
 
-## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HariniParthasarathy16&show_icons=true&theme=radical)
+
 
 ## 📅 Aspirations
 In 3–5 years, I see myself as a tech leader, building scalable AI systems, mentoring others, and leading innovative projects.  
