@@ -216,11 +216,11 @@ Healthcare AI is where technology meets humanity. This project taught me that co
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reenee1601&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=ff6b6b&icon_color=4ecdc4&text_color=fff&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reenee16&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=ff6b6b&icon_color=4ecdc4&text_color=fff&bg_color=0d1117"/>
  
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reenee1601&theme=radical&ring=ff6b6b&fire=ff6b6b&currStreakLabel=ff6b6b" alt="My Coding Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reenee16&theme=radical&ring=ff6b6b&fire=ff6b6b&currStreakLabel=ff6b6b" alt="My Coding Streak" />
 </div>
 
