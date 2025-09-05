@@ -17,7 +17,7 @@
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harinipartha16)
-[![GitHub](https://img.shields.io/badge/Follow_My_Journey-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HariniParthasarathy16)
+[![GitHub](https://img.shields.io/badge/Follow_My_Journey-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reenee16)
 [![Email](https://img.shields.io/badge/Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Harini.Parthasarathy16@gmail.com)
 
 </div>
