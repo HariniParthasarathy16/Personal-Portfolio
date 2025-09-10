@@ -66,7 +66,6 @@ const myLife = {
 <td width="50%">
 
 ### 🌱 **Always Learning**
-- 🧠 How to make neural networks less... neural and more network-y
 - ⚡ Building systems that don't crash when 1000 users hit them
 - 🎨 Making UI/UX that doesn't make people cry
 - 🌐 Cloud stuff (because everything lives in the cloud now, apparently)
